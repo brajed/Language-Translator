@@ -1,0 +1,17 @@
+# ninja log v5
+2	23	1732047110392546398	LanguageTranslator_autogen/timestamp	c3edf9ad422742d3
+2	23	1732047110392546398	LanguageTranslator_autogen/mocs_compilation.cpp	c3edf9ad422742d3
+2	23	1732047110392546398	/home/bra/Documents/QtProjects/LanguageTranslator/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/LanguageTranslator_autogen/timestamp	c3edf9ad422742d3
+326	2324	1732047071906046197	CMakeFiles/LanguageTranslator.dir/LanguageTranslator_autogen/mocs_compilation.cpp.o	7cce81bcfd339921
+2	23	1732047110392546398	/home/bra/Documents/QtProjects/LanguageTranslator/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/LanguageTranslator_autogen/mocs_compilation.cpp	c3edf9ad422742d3
+24	1915	1732047112648458989	CMakeFiles/LanguageTranslator.dir/mainwindow.cpp.o	fd60ed3997849bce
+325	3199	1732047072778012034	CMakeFiles/LanguageTranslator.dir/main.cpp.o	83156cc5ef7ca21c
+3171	3683	1732043226648653912	LanguageTranslator	985a342c4ed7496f
+2	322	1732047195913268664	LanguageTranslator_autogen/timestamp	c3edf9ad422742d3
+2	322	1732047195913268664	LanguageTranslator_autogen/mocs_compilation.cpp	c3edf9ad422742d3
+2	322	1732047195913268664	/home/bra/Documents/QtProjects/LanguageTranslator/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/LanguageTranslator_autogen/timestamp	c3edf9ad422742d3
+2	322	1732047195913268664	/home/bra/Documents/QtProjects/LanguageTranslator/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/LanguageTranslator_autogen/mocs_compilation.cpp	c3edf9ad422742d3
+323	2293	1732047197885193911	CMakeFiles/LanguageTranslator.dir/LanguageTranslator_autogen/mocs_compilation.cpp.o	925c6463e72a094c
+323	2386	1732047197977190423	CMakeFiles/LanguageTranslator.dir/mainwindow.cpp.o	4d61e2a4db98fe61
+323	3143	1732047198733161776	CMakeFiles/LanguageTranslator.dir/main.cpp.o	40775501c9859cca
+3143	3599	1732047199189144498	LanguageTranslator	985a342c4ed7496f
